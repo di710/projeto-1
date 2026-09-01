@@ -36,7 +36,7 @@ Utilizando **Pandas** e **Plotly**, a base passou por limpeza e validação esta
 * **Demanda de Crédito:** **Educação** e **Despesas Médicas** lideram a quantidade de solicitações de empréstimos.
 
 
-## Demonstração & Links
+## Print & Links
 
 * **Google Colab (Código Python & SQL):** [Acessar Notebook no Google Colab](https://colab.research.google.com/drive/1MdaQUX69pHu0dBtMNLsfJ2uo90eyqwZP?usp=sharing)
 * **Dashboard Power BI:** <img width="1381" height="778" alt="image" src="https://github.com/user-attachments/assets/395bad93-cd35-4fe3-b77a-34e98ae542e8" />
