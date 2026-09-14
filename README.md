@@ -43,8 +43,6 @@ Utilizando **Pandas** e **Plotly**, a base passou por limpeza e validação esta
 
 
 
-![Dashboard Power BI](COLE_O_LINK_DA_IMAGEM_OU_ARRASTE_A_FOTO_AQUI)
-
 ## Estrutura do Repositório
 * `notebooks/`: Script Python (`.py`/`.ipynb`) contendo a criação do banco SQLite, queries e limpeza com Pandas.
 * `data/`: Datasets utilizados (`credit_risk_dataset.csv` e `new_credit_risk.csv`).
