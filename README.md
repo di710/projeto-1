@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar os fatores determinantes da inadimplênc
 A solução foi construída desde a ingestão e tratamento de dados brutos usando **Python e SQL (SQLite)**, passando por análises exploratórias (**Plotly**), até a consolidação em um **Dashboard no Power BI** para apoio à tomada de decisão.
 
 
-## Tecnologias e Etapas do Projeto
+## Etapas do Projeto
 
 ### 1. Ingestão e Consultas(SQL & SQLite)
 A partir da base bruta, os dados foram carregados em um banco SQLite (`credito_banco.db`) para a criação de queries de inteligência de negócio:
